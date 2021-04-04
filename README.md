@@ -7,7 +7,7 @@
 * [Acknowledgements](#acknowledgements)
 * [Questions](#questions)
 ## Description 
-This a code quiz about javascript built using html, css and javascript and Web APIs. 
+This a code quiz about javascript built using html, css, javascript and Web APIs. 
 ![screenshot image of starting page for Code Quiz](assets/screenshot.PNG)
 ## Technologies
 * HTML
