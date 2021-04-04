@@ -1,0 +1,79 @@
+/* Universal Selector Properties */
+* {
+  box-sizing: border-box;
+}
+
+/* Main Body Properties */
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+/* Highscores Link Text Properties */
+a {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  color: black;
+  font-size: 15px;
+  padding: 2px;
+  margin: 5px;
+}
+
+/* Header Box Properties */
+header {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/* Main Title Text Properties */
+h1 {
+  text-align: center;
+  font-size: 30px;
+  padding: 2px;
+}
+
+/* Timer box Properties */
+.timer-area {
+  float: right;
+  font-weight: bold;
+  margin: 5px;
+}
+
+/* Main Quiz Box Properties */
+.quiz-container {
+  width: 50%;
+  min-width: 400px;
+  margin: 100px auto;
+  border-style: solid;
+  text-align: center;
+}
+
+/* Question Properties */
+#question {
+  margin: 3px;
+}
+
+/* Button Properties */
+.button {
+  border-style: solid;
+  border-color: black;
+  height: 40px;
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 14px;
+  position: relative;
+  margin: 5px;
+  cursor: pointer;
+  padding: 4px;
+}
+
+/* Button Hover Affect Properties */
+.button:hover {
+  background: lightgray;
+}
+
+.button:focus {
+  outline: none;
+}
